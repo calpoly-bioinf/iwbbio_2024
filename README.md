@@ -1,3 +1,3 @@
-# Code for IWBBIO Submission
+# IWBBIO 2024 Submission
 
-Coming soon
+This repository contains the code and notebooks that produced the results in our IWBBIO 2024 submission.
