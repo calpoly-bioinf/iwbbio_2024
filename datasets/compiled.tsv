@@ -1,0 +1,999 @@
+1		Hypothesis A	Sentence A	Entity A	Hypothesis B	Sentence B	Entity B	Cooper	Maddie	Maui	Naz	Number of matching (ratio of num "M" / people)	Ratio (M/Total)	Subclasses	Linked	Not Matching	Opposites
+23	158316	h1	Practice of a self-management approach may, in part, underlie subsequent reductions in pain intensity and interference in functioning.	pain	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	pain	M	M	M	M	4	1	0	0	0	0
+25	92192	h1	The significance of the pretreatment-to-4-week decrease in pain intensity (assessed with NRS) was F(1, 93) 8.89; p .006; 2 .115.	decrease in pain intensity	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	M	M	M	M	4	1	0	0	0	0
+52	191076	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	M	M	M	M	4	1	0	0	0	0
+151	299696	h1	the two measures of treatment engagement at post-treatment were distinct measures of treatment engagement.	post-treatment	h1	Another treatment may not produce the final degree of posttreatment change until the final session.	posttreatment	M	M	M	M	4	1	0	0	0	0
+154	238312	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	post-treatment	h1	Patients who had received PCST reported a greater decrease in high pain days at posttreatment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+155	191693	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	spinal-cord injury	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	spinal cord injury	M	M	M	M	4	1	0	0	0	0
+212	259100	h2	A body image disruption can be associated with an incorrect pain rating.	pain rating	h2	Intramuscular injections of algesic substances result in greater pain ratings in men.	pain ratings	M	M	M	M	4	1	0	0	0	0
+216	82985	h1	Thirty-seven adults had spinal-cord injury and chronic pain.	spinal-cord injury	h1	Participants were adults with chronic pain secondary to spinal cord injury (SCI).	spinal cord injury	M	M	M	M	4	1	0	0	0	0
+227	257910	h2	A distorted body image could lead to an incorrect pain rating.	pain rating	h2	Intramuscular injections of algesic substances result in greater pain ratings in women.	pain ratings	M	M	M	M	4	1	0	0	0	0
+241	185090	h1	This indicates that treatment groups had similar effects on pain interference changes.	pain	h1	The effect size for pain interference was less than small.	pain	M	M	M	M	4	1	0	0	0	0
+243	152507	h2	Lower levels of habitual physical activity may represent an additional individual constraint in older adults.	physical activity	h2	physical activities can promote a gradual progress towards recovery.	physical activities	M	M	M	M	4	1	0	0	0	0
+255	243610	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	M	M	M	M	4	1	0	0	0	0
+310	173757	h1	chronic neuropathic pain occurs after spinal cord injury.	spinal cord injury	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	spinal-cord injury	M	M	M	M	4	1	0	0	0	0
+344	226870	h1	Yoga (Craner, Osadchuk, & Katz, 2011; Lazaridou et al., 2019) is a practice that can bring about significant changes in pain catastrophizing.	pain catastrophizing	h1	We hypothesized that the cognitively-focused CBT protocol would uniquely influence pain catastrophizing.	pain catastrophizing	M	M	M	M	4	1	0	0	0	0
+363	238314	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	post-treatment	h1	The aerobic exercise capacity did not show significant changes at the posttreatment assessment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+373	61553	h1	Feelings occur in situations in which patients had difficulty coping with pain.	pain	h1	Pain caused difficulty in performing daily activities.	Pain	M	M	M	M	4	1	0	0	0	0
+915	299700	h1	the two measures of treatment engagement at post-treatment were distinct measures of treatment engagement.	post-treatment	h1	Patients who had received PCST reported a greater decrease in high pain days at posttreatment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+930	97910	h1	Pain caused difficulty in performing daily activities.	difficulty in performing daily activities	h1	Inactivity contributes to difficulty performing everyday activities for some people.	difficulty performing everyday activities	M	M	M	M	4	1	0	0	0	0
+941	53258	h2	Fear instigates avoidance behavior.	Fear	h2	Patients fear harm during physical activities.	fear	M	M	M	M	4	1	0	0	0	0
+974	158312	h1	Practice of a self-management approach may, in part, underlie subsequent reductions in pain intensity and interference in functioning.	pain	h1	Distress can make pain worse.	pain	M	M	M	M	4	1	0	0	0	0
+11	199406	h2	Focusing on pain may act as a catalyst.	pain	h1	Interference is not affected by posttreatment changes in pain intensity.	pain	M	M	M	M	4	1	0	0	0	0
+13	150665	h2	Lower levels of habitual physical activity may represent an additional individual constraint.	individual constraint	h2	These findings indicate that individual constraints reduce persistence.	individual constraints	M	M	M	M	4	1	0	0	0	0
+15	238316	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	post-treatment	h1	Patients who had received PCST/MT reported a greater increase in positive mood at posttreatment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+28	30114	h1	Pain may be caused or exacerbated by muscle tension.	Pain	h2	The studies provide support for the validity of the pain-related fear measures used.	pain	M	M	M	M	4	1	0	0	0	0
+41	299702	h1	the two measures of treatment engagement at post-treatment were distinct measures of treatment engagement.	post-treatment	h1	The aerobic exercise capacity did not show significant changes at the posttreatment assessment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+63	299704	h1	the two measures of treatment engagement at post-treatment were distinct measures of treatment engagement.	post-treatment	h1	Patients who had received PCST/MT reported a greater increase in positive mood at posttreatment.	posttreatment	M	M	M	M	4	1	0	0	0	0
+76	236429	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	M	M	M	M	4	1	0	0	0	0
+85	97561	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	M	M	M	M	4	1	0	0	0	0
+91	240022	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	The expected pain level after intervention is 1.27.	pain level	M	M	M	M	4	1	0	0	0	0
+94	83221	h1	Thirty-seven adults had spinal-cord injury and chronic pain.	spinal-cord injury	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	spinal cord injury	M	M	M	M	4	1	0	0	0	0
+140	235254	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	The expected pain level after intervention is 1.27.	pain level	M	M	M	M	4	1	0	0	0	0
+160	97544	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	M	M	M	M	4	1	0	0	0	0
+177	201822	h2	Only those who reported low pain showed changes in temporal activation profiles.	pain	h1	Relationship problems can make pain worse.	pain	M	M	M	M	4	1	0	0	0	0
+200	243608	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	M	M	M	M	4	1	0	0	0	0
+401	241214	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	h1	The expected pain level after intervention is 1.27.	pain level	M	M	M	M	4	1	0	0	0	0
+929	259102	h2	A body image disruption can be associated with an incorrect pain rating.	pain rating	h2	Intramuscular injections of algesic substances result in greater pain ratings in women.	pain ratings	M	M	M	M	4	1	0	0	0	0
+59	136402	h2	Studies have shown a correlation between cLBP and impaired postural control.	impaired postural control	h2	Our findings suggest that postural control is impaired in individuals with cLBP.	postural control	M	M	S	M	3	0.75	1	0	0	0
+61	24963	h2	Fall injuries are a consequence of leisure-time physical activity in middle-aged adults.	physical activity	h2	physical activities can promote a gradual progress towards recovery.	physical activities	M	M	NM	M	3	0.75	0	0	1	0
+116	102427	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h1	The aerobic exercise capacity did not show significant changes at the posttreatment assessment.	aerobic exercise	M	M	S	M	3	0.75	1	0	0	0
+192	195822	h1	The changes in pain interference scores were predicted.	pain	h2	Focusing on pain may act as a catalyst.	pain	NM	M	M	M	3	0.75	0	0	1	0
+205	197026	h1	The effect size for pain interference was less than small.	pain	h2	There is no significant relation between pain-related fear.	pain	NM	M	M	M	3	0.75	0	0	1	0
+249	243612	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	M	M	L	M	3	0.75	0	1	0	0
+269	109378	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	h1	This indicates that treatment groups had similar effects on pain interference changes.	pain	NM	M	M	M	3	0.75	0	0	1	0
+298	109414	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	h2	There is no significant relation between pain-related fear.	pain	NM	M	M	M	3	0.75	0	0	1	0
+313	294419	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	h1	Attrition rates were higher than expected, which undermines power.	Attrition	L	M	M	M	3	0.75	0	1	0	0
+331	195910	h1	The changes in pain interference scores were predicted.	pain	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	M	M	NM	M	3	0.75	0	0	1	0
+910	134013	h1	Those in the SC condition reported a greater decrease in high pain days at follow-up.	high pain	h1	Patients who had received PCST reported a greater decrease in high pain days at posttreatment.	high pain day	M	M	NM	M	3	0.75	0	0	1	0
+944	263876	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	M	M	L	M	3	0.75	0	1	0	0
+106	213788	h1	The primary focus of this study is on pain interference.	pain	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	M	M	NM	M	3	0.75	0	0	1	0
+206	349844	h1	Age did not significantly change prior to treatment.	treatment	h1	Additionally, future research may identify patient characteristics that predict better compatibility with specific treatment approaches.	treatment approaches	M	M	M	L	3	0.75	0	1	0	0
+231	185186	h1	This indicates that treatment groups had similar effects on pain interference changes.	pain	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	M	M	NM	M	3	0.75	0	0	1	0
+938	246578	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	h1	The expected pain level after intervention is 1.27.	pain level	M	NM	M	M	3	0.75	0	0	1	0
+132	193468	h1	The purpose was to predict 4-week- to-posttreatment changes in pain interference change scores.	pain	h1	information tailored to the participants' particular medical condition was based on what is known about pain in LBP.	pain	L	NM	M	M	2	0.5	0	1	1	0
+50	182323	h1	Cognitive changes may beget outcome improvements.	Cognitive changes	h2	There were significant correlations between cognitive improvements and reduction of pain sensation.	cognitive improvements	S	M	M	S	2	0.5	2	0	0	0
+74	152491	h2	Lower levels of habitual physical activity may represent an additional individual constraint in older adults.	physical activity	h1	The aerobic exercise capacity did not show significant changes at the posttreatment assessment.	aerobic exercise	M	L	S	M	2	0.5	1	1	0	0
+97	62821	h1	Behavioral therapy patients showed significant improvement on the Sickness Impact Profile.	Behavioral therapy	h1	cognitive behavioral therapy causes improvement.	cognitive behavioral therapy	M	M	NM	S	2	0.5	1	0	1	0
+148	59459	h2	The finding was that the expected pain increase was a significant predictor of poor behavioral performance.	pain	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	NM	NM	M	M	2	0.5	0	0	2	0
+215	21542	h1	Dropouts happen, and it is unknown how many are due to dissatisfaction or unrecorded worse pain.	Dropout	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	attrition	L	M	NM	M	2	0.5	0	1	1	0
+235	3589	h2	Chronic back pain patients are systematically exposed to a series of physical activities.	Chronic back pain	h1	Discriminating behaviors are caused by chronic low back pain.	chronic low back pain	M	M	L	S	2	0.5	1	1	0	0
+283	98696	h1	Pain caused difficulty in performing daily activities.	Pain	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	NM	NM	M	M	2	0.5	0	0	2	0
+288	160678	h1	The 9-item subscale measures the degree to which pain interferes with various aspects of life.	pain	h1	The majority of pain treatments available to persons with spinal-cord injury (SCI) have been shown to benefit only a subset of patients.	pain	NM	NM	M	M	2	0.5	0	0	2	0
+302	212580	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	M	NM	NM	M	2	0.5	0	0	2	0
+309	127213	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	pain	h1	Practice of a self-management approach may, in part, underlie subsequent reductions in pain intensity and interference in functioning.	pain	NM	NM	M	M	2	0.5	0	0	2	0
+353	98652	h1	Pain caused difficulty in performing daily activities.	Pain	h2	The highest correlations were found among pain-related fear measures.	pain	NM	NM	M	M	2	0.5	0	0	2	0
+383	24044	h2	Fall injuries are a consequence of leisure-time physical activity in middle-aged adults.	Fall injuries	h2	Leisure-time physical activity is a factor that affects falls and fall injuries in middle-aged adults.	falls and fall injuries	M	M	NM	L	2	0.5	0	1	1	0
+920	19064	h1	Eleven treatment completers showed a decrease of 25-49% on BPI-intensity.	treatment	h1	Additionally, future research may identify patient characteristics that predict better compatibility with specific treatment approaches.	treatment approaches	L	M	M	NM	2	0.5	0	1	1	0
+943	36537	h2	Sensorimotor deficits may result from normal aging.	normal aging	h2	Physiologic complexity can vary with aging and disease.	aging	M	M	S	NM	2	0.5	1	0	1	0
+955	115225	h2	Relative changes in stride length incur nearly the same energetic cost penalty.	stride length	h2	Small changes in average stride time have a similar effect on energy cost in humans.	stride time	L	M	L	L	1	0.25	0	3	0	0
+8	234025	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain catastrophizing	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain interference	NM	M	NM	NM	1	0.25	0	0	3	0
+12	235250	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	M	1	0.25	0	0	3	0
+17	230450	h1	Change in mindful observing was significantly associated with change in pain catastrophizing in this research.	pain catastrophizing	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	NM	M	NM	NM	1	0.25	0	0	3	0
+20	251960	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	L	NM	M	1	0.25	0	1	2	0
+21	210807	h1	Participants were encouraged to understand how cognitive factors shape pain.	cognitive factors	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	cognitive process	S	S	M	L	1	0.25	2	1	0	0
+27	160669	h1	The 9-item subscale measures the degree to which pain interferes with various aspects of life.	pain	h2	The patients in a group of patients avoid physical activities and fear pain/(re)injury.	injury	NM	M	NM	NM	1	0.25	0	0	3	0
+35	94002	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	The expected pain level after intervention is 1.27.	pain level	M	NM	NM	S	1	0.25	1	0	2	0
+39	191146	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	S	M	NM	L	1	0.25	1	1	1	0
+53	237626	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	NM	NM	NM	M	1	0.25	0	0	3	0
+54	139905	h1	The rate of symptom improvement may differ.	improvement	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	M	NM	NM	1	0.25	0	0	3	0
+58	130814	h2	Chronic pain may contribute to elevated healthcare costs.	Chronic pain	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	M	NM	L	S	1	0.25	1	1	1	0
+69	155968	h1	How much did pain interfere?	pain	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	NM	NM	NM	M	1	0.25	0	0	3	0
+71	5086	h1	Chronic pain is a growing problem.	Chronic pain	h1	A substantial proportion of patients with spinal-cord injury (SCI) experience severe, ongoing pain.	pain	S	M	S	S	1	0.25	3	0	0	0
+78	236444	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	NM	M	NM	NM	1	0.25	0	0	3	0
+79	54633	h1	Hypnosis has been shown to effect bandwidth power as averaged over multiple electrodes.	Hypnosis	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	Hypnotizability	L	M	NM	L	1	0.25	0	2	1	0
+83	192328	h1	Fighting against the pain and unwillingness to experience the pain needed to be limited.	pain	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	NM	L	NM	M	1	0.25	0	1	2	0
+99	104706	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	NM	NM	NM	M	1	0.25	0	0	3	0
+123	73816	h1	It limited our ability to test whether the hypothesized associations would have emerged in individuals with higher pretreatment catastrophizing scores.	pretreatment	h1	Patients who had received PCST reported a greater decrease in high pain days at posttreatment.	posttreatment	O	O	O	M	1	0.25	0	0	0	3
+126	240016	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	NM	NM	NM	M	1	0.25	0	0	3	0
+131	93978	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	S	M	S	S	1	0.25	3	0	0	0
+147	306860	h2	Our findings suggest that postural control is impaired in individuals with cLBP.	postural control	h2	Applied to the leg muscles during quiet standing, vibration can induce postural instability.	postural instability	O	O	L	M	1	0.25	0	1	0	2
+168	30680	h1	Pain may be caused or exacerbated by muscle tension.	muscle tension	h2	major outcomes are also manifested when motor neuron activity inhibits muscular contractions.	muscular contractions	L	M	NM	NM	1	0.25	0	1	2	0
+191	93733	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	Baseline pain interference did not have a direct effect on the change in depressive symptoms.	Baseline pain interference	L	M	NM	NM	1	0.25	0	1	2	0
+195	9223	h2	Fear of pain may be more related to short-lasting pain increases.	pain	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	NM	NM	NM	M	1	0.25	0	0	3	0
+199	51792	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	attrition	h1	36% of the biofeedback participants reported these reductions.	reduction	NM	NM	NM	M	1	0.25	0	0	3	0
+208	237620	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	L	M	NM	NM	1	0.25	0	1	2	0
+213	96366	h1	Baseline pain interference did not have a direct effect on the change in depressive symptoms.	Baseline pain interference	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	S	M	S	S	1	0.25	3	0	0	0
+226	93972	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	S	M	S	S	1	0.25	3	0	0	0
+265	166083	h2	Pain influences muscle activation.	muscle activation	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	neuromuscular activation	S	M	S	S	1	0.25	3	0	0	0
+295	182720	h2	A reliable and valid index of depressive symptoms in chronic pain patients this finding the overall severity of depressive symptoms.	pain	h2	The patients in a group of patients avoid physical activities and fear pain/(re)injury.	pain	NM	NM	NM	M	1	0.25	0	0	3	0
+338	93974	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	S	M	S	S	1	0.25	3	0	0	0
+380	188692	h1	The pain and interference should have been present for at least 6 months.	pain	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	NM	NM	M	NM	1	0.25	0	0	3	0
+385	237145	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	Hypnotizability	h1	Hypnosis has been shown in studies to reduce pain intensity.	Hypnosis	L	M	L	L	1	0.25	0	3	0	0
+389	116417	h2	Small changes in average stride length increase energy cost in humans.	stride length	h2	Small changes in average stride time have a similar effect on energy cost in humans.	stride time	M	L	L	L	1	0.25	0	3	0	0
+392	215015	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	NM	NM	M	S	1	0.25	1	0	2	0
+396	195848	h1	The changes in pain interference scores were predicted.	pain	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	NM	NM	M	NM	1	0.25	0	0	3	0
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+905	267601	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	h2	Chronic pain may cause an unpleasant feeling.	Chronic pain	M	L	NM	NM	1	0.25	0	1	2	0
+935	173335	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h2	Chronic pain may contribute to poor quality of life (QoL).	Chronic pain	M	NM	L	S	1	0.25	1	1	1	0
+954	81280	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h1	Those in the SC condition reported a greater decrease in high pain days at follow-up.	high pain	M	NM	NM	NM	1	0.25	0	0	3	0
+959	253144	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	L	M	NM	NM	1	0.25	0	1	2	0
+962	242402	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	L	M	NM	NM	1	0.25	0	1	2	0
+963	237151	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	Hypnotizability	h1	52% of the hypnosis participants reported these reductions.	hypnosis	L	M	L	NM	1	0.25	0	2	1	0
+970	206563	h2	There is no significant relation between pain-related fear.	pain	h2	There is no significant relation between pain-related fear.	fear	NM	M	NM	L	1	0.25	0	1	2	0
+988	247184	h1	There was no evidence for significant indirect effects (mediation) of the practice of listening to the audio recordings on pain interference.	pain interference	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	M	L	NM	NM	1	0.25	0	1	2	0
+990	11603	h2	Postural instability is observed in persons with spinal pain.	spinal pain	h2	Pain influences muscle activation.	Pain	S	M	S	S	1	0.25	3	0	0	0
+995	173433	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h2	Chronic pain may cause an unpleasant feeling.	Chronic pain	M	NM	L	S	1	0.25	1	1	1	0
+997	238826	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	L	M	NM	NM	1	0.25	0	1	2	0
+999	242386	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	L	M	NM	NM	1	0.25	0	1	2	0
+1001	8543	h2	Fear of pain may be more related to short-lasting pain increases.	Fear of pain	h2	Fear of falling decreases the CoP excursion due to increased muscle activity.	Fear of falling	M	NM	S	NM	1	0.25	1	0	2	0
+14	167829	h1	EMG biofeedback was used to demonstrate the impact of cognitions on muscle tension.	cognitions	h1	Participants were encouraged to understand how cognitive factors shape pain.	cognitive factors	L	L	L	L	0	0	0	4	0	0
+2	8459	h2	Fear of pain may be more related to short-lasting pain increases.	Fear of pain	h2	Fear of falling decreases the CoP excursion in the elderly due to axial stiffness.	Fear of falling	S	NM	S	NM	0	0	2	0	2	0
+3	133484	h2	A recent study found that radiating leg pain is significantly associated with high disability levels.	radiating leg pain	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	NM	L	S	NM	0	0	1	1	2	0
+4	126629	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	h2	Pain influences motor response in individuals with LBP.	Pain	NM	NM	NM	NM	0	0	0	0	4	0
+5	317648	h1	Hypnosis has been shown in studies to reduce pain intensity.	reduce pain intensity	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	NM	NM	NM	NM	0	0	0	0	4	0
+6	207849	h2	There is no significant relation between the expectation of pain.	pain	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+7	43637	h1	Encouraging patients to approach and experience important emotions can modify affectively-modulated brain pathways.	emotions	h1	Stress is a common cause of complaints.	Stress	S	S	S	S	0	0	4	0	0	0
+9	70579	h2	Multitudinous complementary mechanisms also involve decreased rates of breakdown.	breakdown	h1	No variable, including change in catastrophizing, showed a significant indirect effect.	catastrophizing	NM	NM	NM	NM	0	0	0	0	4	0
+10	235934	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	neuromuscular activation	h2	Our findings suggest that postural control is impaired in individuals with cLBP.	postural control	NM	NM	NM	S	0	0	1	0	3	0
+16	3716	h2	Chronic back pain patients are systematically exposed to a series of physical activities.	Chronic back pain	h1	Participants were adults with chronic pain secondary to spinal cord injury (SCI).	chronic pain	S	L	S	S	0	0	3	1	0	0
+18	96376	h1	Baseline pain interference did not have a direct effect on the change in depressive symptoms.	Baseline pain interference	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	S	L	S	S	0	0	3	1	0	0
+19	108346	h2	Physiologic complexity can vary with aging and disease.	aging	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+22	268056	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain-related behaviors	h1	The improvements in pain intensity and pain-related distress were small.	pain-related distress	NM	S	NM	S	0	0	2	0	2	0
+24	126015	h1	The affected items include sleep disturbance, decrease in libido, and increased fatigue.	sleep disturbance	h1	Sleep quality did not have an effect on The interaction effect for pain interference.	Sleep quality	NM	S	S	L	0	0	2	1	1	0
+26	10919	h2	Postural instability is observed in persons with spinal pain.	Postural instability	h2	Walking variability can lead to increased energetic cost.	Walking variability	S	NM	NM	NM	0	0	1	0	3	0
+29	90304	h2	the reduction of disability would lead to the reduction of associated costs.	disability	h2	The hypothesized sensory deficiency might be due to movement causing pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+30	9882	h1	Hyperactivity increases.	Hyperactivity	h2	There is no significant relation between pain-related fear.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+31	236428	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	NM	S	NM	NM	0	0	1	0	3	0
+32	235895	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	neuromuscular activation	h2	Over time, The altered neuromuscular strategies may contribute to the persistence of the disorder.	neuromuscular strategies	S	NM	NM	L	0	0	1	1	2	0
+33	192336	h1	Fighting against the pain and unwillingness to experience the pain needed to be limited.	pain	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	S	NM	NM	L	0	0	1	1	2	0
+34	237648	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	NM	NM	NM	S	0	0	1	0	3	0
+36	268761	h1	Reports regarding tai chi tended to alter pain-related cognition.	pain-related cognition	h2	Individuals with pain-related fear continue to restrict lumbar motion.	pain-related fear	NM	NM	NM	S	0	0	1	0	3	0
+37	188233	h2	The studies provide support for the validity of the pain-related fear measures used.	fear	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	NM	NM	NM	0	0	0	0	4	0
+38	235236	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	NM	S	NM	NM	0	0	1	0	3	0
+40	150551	h2	Lower levels of habitual physical activity may represent an additional individual constraint.	individual constraint	h1	The primary focus of this study is on pain interference.	interference	NM	NM	NM	NM	0	0	0	0	4	0
+42	250775	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	S	S	NM	NM	0	0	2	0	2	0
+43	81282	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h1	The decrease in high pain days reported by patients who had received PCST was significantly lesser than that reported by those in the SC condition (t 3.66; P .0003).	high pain day	NM	NM	NM	NM	0	0	0	0	4	0
+44	280607	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	h1	detailed thought records additionally recounted physical reactions.	thought	NM	NM	NM	NM	0	0	0	0	4	0
+45	166263	h2	Pain influences muscle activation.	muscle activation	h2	Both groups, with and without spinal pain, were challenged by vibrating ankle muscles or paraspinal muscles.	paraspinal muscles	NM	NM	NM	NM	0	0	0	0	4	0
+46	235252	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	NM	L	NM	NM	0	0	0	1	3	0
+47	74372	h1	Results suggested that people who completed all 10 sessions of treatment experienced a significant decrease in pain catastrophizing.	catastrophizing	h2	Greater disease progression correlates with further reductions in persistence.	persistence	NM	O	NM	NM	0	0	0	0	3	1
+48	91593	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in depressive symptoms was not significant.	pretreatment	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	treatment epoch	NM	O	NM	NM	0	0	0	0	3	1
+49	208973	h1	Participants were encouraged to understand how affective factors shape pain.	pain	h1	Distress can make pain worse.	Distress	NM	S	NM	NM	0	0	1	0	3	0
+51	185669	h1	This indicates that treatment groups had similar effects on pain interference changes.	interference	h2	The highest correlations were found among pain-related fear measures.	fear	NM	NM	NM	NM	0	0	0	0	4	0
+55	182259	h1	Cognitive changes may beget outcome improvements.	Cognitive changes	h1	Psychosocial factors play an important role in associated physical disability.	Psychosocial factors	NM	NM	NM	NM	0	0	0	0	4	0
+56	243590	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	S	NM	NM	0	0	1	0	3	0
+57	75072	h1	Results suggested that people who completed all 10 sessions of treatment experienced a significant decrease in pain catastrophizing.	pain	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	spinal pain	NM	NM	S	S	0	0	2	0	2	0
+60	101680	h1	Exercise may reduce disability in osteoarthritis patients.	disability	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+62	26659	h1	Mood disturbance is also a symptom of Fibromyalgia (FM.	Mood disturbance	h2	A body image disruption can be associated with an incorrect pain rating.	body image disruption	NM	NM	NM	NM	0	0	0	0	4	0
+64	61285	h1	Feelings occur in situations in which patients had difficulty coping with pain.	Feeling	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	L	NM	NM	0	0	0	1	3	0
+65	140343	h1	The rate of symptom improvement may differ.	symptom	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	NM	NM	NM	S	0	0	1	0	3	0
+66	102260	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h2	The patients in a group of patients avoid physical activities and fear pain/(re)injury.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+67	41873	h2	Evidence suggests that changes in cognitive demands can alter trunk muscle activation.	activation	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in depressive symptoms was not significant.	pretreatment	NM	L	NM	NM	0	0	0	1	3	0
+68	191132	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	NM	L	NM	L	0	0	0	2	2	0
+70	25746	h2	Fluctuations in repeated human movements arise from external disturbances.	disturbances	h2	Multitudinous complementary mechanisms also involve decreased rates of breakdown.	breakdown	NM	NM	NM	NM	0	0	0	0	4	0
+72	142817	h1	Catastrophizing changed significantly in the sample as a whole, indicating improvement.	Catastrophizing	h1	Distress can make pain worse.	Distress	NM	NM	NM	NM	0	0	0	0	4	0
+73	82572	h1	Thirty-seven adults had spinal-cord injury and chronic pain.	chronic pain	h1	The purpose was to predict 4-week- to-posttreatment changes in pain interference change scores.	pain	NM	NM	S	S	0	0	2	0	2	0
+75	45878	h1	Fibromyalgia can affect various parts of the body.	affect various parts of the body	h2	Patients with LBP stiffen the trunk.	stiffen the trunk	NM	S	S	NM	0	0	2	0	2	0
+77	82411	h1	Thirty-seven adults had spinal-cord injury and chronic pain.	chronic pain	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	NM	NM	NM	NM	0	0	0	0	4	0
+80	8886	h2	Fear of pain may be more related to short-lasting pain increases.	Fear of pain	h2	There were significant correlations between cognitive improvements and reduction of pain sensation.	reduction of pain sensation	NM	NM	NM	NM	0	0	0	0	4	0
+81	217368	h1	information tailored to the participants' particular medical condition was based on what is known about pain in LBP.	pain	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	NM	NM	NM	L	0	0	0	1	3	0
+82	175722	h1	If there are no significant treatment differences in outcome.	outcome	h1	Evidence shows that adherence is associated with positive outcomes.	positive outcomes	S	NM	S	S	0	0	3	0	1	0
+84	59973	h1	Depression is left untreated.	Depression	h1	Distress can make pain worse.	Distress	NM	NM	NM	S	0	0	1	0	3	0
+86	17734	h1	Pain-related distress reduced by 0.37 units.	Pain-related distress	h1	Reports regarding tai chi tended to alter pain-related cognition.	pain-related cognition	L	NM	NM	S	0	0	1	1	2	0
+87	37081	h2	Undesirable responses are triggered by external or internal perturbations.	Undesirable response	h1	Stress is a common cause of complaints.	Stress	L	L	NM	NM	0	0	0	2	2	0
+88	27396	h1	Mood disturbance is also a symptom of Fibromyalgia (FM.	Fibromyalgia	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	L	NM	NM	S	0	0	1	1	2	0
+89	188709	h1	The pain and interference should have been present for at least 6 months.	pain	h1	Distress can make pain worse.	Distress	NM	NM	NM		0	0	0	0	3	0
+90	134069	h1	Those in the SC condition reported a greater decrease in high pain days at follow-up.	high pain	h1	Persistent pain leads to social isolation for some.	Persistent pain	L	NM	NM	NM	0	0	0	1	3	0
+92	242439	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	High levels of pain anxiety compromise participation in rehabilitation.	pain anxiety	NM	NM	NM	NM	0	0	0	0	4	0
+93	52225	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	depression	h1	Distress can make pain worse.	Distress	NM	L	NM	S	0	0	1	1	2	0
+95	289591	h2	Experienced pain increase was less predictive of physical performance.	pain	h1	a study focused on the prevention of relapse/recurrence in major depression.	relapse	NM	NM	NM	NM	0	0	0	0	4	0
+96	28923	h1	Pain may be caused or exacerbated by anxiety.	Pain	h2	The studies provide support for the validity of the pain-related fear measures used.	fear	NM	NM	NM	NM	0	0	0	0	4	0
+98	181057	h1	Cognitive changes may beget outcome improvements.	Cognitive changes	h2	Greater disease progression correlates with further reductions in persistence.	disease progression	NM	L	NM	NM	0	0	0	1	3	0
+100	9890	h1	Hyperactivity increases.	Hyperactivity	h1	The majority of pain treatments available to persons with spinal-cord injury (SCI) have been shown to benefit only a subset of patients.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+101	249570	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	L	NM	NM	NM	0	0	0	1	3	0
+102	21137	h2	Cortical plasticity is caused by sensorimotor or cognitive stimulation.	sensorimotor	h2	Pain influences motor response in individuals with LBP.	Pain	NM	NM	NM	NM	0	0	0	0	4	0
+103	191116	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	NM	L	NM	L	0	0	0	2	2	0
+104	173244	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+105	9468	h2	Fear of pain may be more related to short-lasting pain increases.	pain	h2	VR rehabilitation potentiates patients' learning and recovery.	recovery	O	NM	NM	NM	0	0	0	0	3	1
+107	166752	h2	Pain influences muscle activation.	Pain	h2	Greater disease progression correlates with further reductions in persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+108	91497	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in depressive symptoms was not significant.	pretreatment	h2	The hypothesized sensory deficiency might be due to movement causing pain.	movement	NM	NM	NM	NM	0	0	0	0	4	0
+109	254336	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	L	O	NM	NM	0	0	0	1	2	1
+110	67477	h1	The rational of using ACT in the context of longstanding pain was based on established relationships between fear, anxiety, stress, muscle tension, negative thoughts, and pain.	fear	h1	Stress is a common cause of complaints.	Stress	NM	NM	NM	NM	0	0	0	0	4	0
+111	125472	h1	The affected items include sleep disturbance, decrease in libido, and increased fatigue.	fatigue	h2	The highest correlations were found among pain-related fear measures.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+112	16199	h1	Additionally, This study highlights the role of common factors in MM, CT, and MBCT for CLBP.	CLBP	h1	MBSR group participants' Sleep Disturbance scores differed significantly from TAU participants beginning at session 2.	MBSR	NM	NM	NM	NM	0	0	0	0	4	0
+113	147209	h1	Inactivity contributes to increased pain for some people.	increased pain	h2	Chronic pain may cause an unpleasant feeling.	Chronic pain	NM	L	NM	NM	0	0	0	1	3	0
+114	276514	h1	High levels of pain anxiety compromise participation in rehabilitation.	pain anxiety	h1	The failure to adaptively process conflicts appears to drive somatic symptoms.	somatic symptoms	NM	NM	NM	S	0	0	1	0	3	0
+115	127918	h2	Patients fear harm during physical activities.	fear	h1	Relationship problems can make pain worse.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+117	36274	h2	Sensorimotor deficits may result from normal aging.	Sensorimotor deficits	h2	Our findings suggest that postural control is impaired in individuals with cLBP.	postural control	NM	NM	NM	S	0	0	1	0	3	0
+118	184012	h2	The hypothesized sensory deficiency might be due to movement causing pain.	pain	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	NM	O	NM	L	0	0	0	1	2	1
+119	33294	h2	Postural stability is achieved through input from the proprioceptive system.	proprioceptive system	h2	Our findings suggest that postural control is impaired in individuals with cLBP.	postural control	NM	L	NM	L	0	0	0	2	2	0
+120	169175	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	h1	Pretreatment to posttreatment within treatment effect sizes ranged from Cohens d 5 0.15 to 0.37.	Pretreatment	NM	NM	NM	NM	0	0	0	0	4	0
+121	3659	h2	Chronic back pain patients are systematically exposed to a series of physical activities.	Chronic back pain	h1	Persistent pain leads to anxiety for some.	Persistent pain	NM	L	NM	S	0	0	1	1	2	0
+122	236464	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	L	NM	NM	NM	0	0	0	1	3	0
+124	194709	h2	The activation depends on whether back muscles are focused on back muscles's pain.	pain	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	NM	L	NM	L	0	0	0	2	2	0
+125	109852	h1	Psychodynamic therapy successfully treats trauma and emotional conflicts.	emotional conflicts	h2	Chronic pain may affect emotional functioning.	emotional functioning	NM	NM	NM	L	0	0	0	1	3	0
+127	189942	h1	A substantial proportion of patients with spinal-cord injury (SCI) experience severe, ongoing pain.	pain	h1	There was no evidence for significant indirect effects (mediation) of the practice of listening to the audio recordings on pain interference.	pain interference	NM	NM	NM	L	0	0	0	1	3	0
+128	238848	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	L	L	NM	NM	0	0	0	2	2	0
+129	235272	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	L	NM	NM	NM	0	0	0	1	3	0
+130	10782	h2	Postural instability is observed in persons with spinal pain.	Postural instability	h2	Postural stability is achieved through input from the proprioceptive system.	Postural stability	O	O	O	O	0	0	0	0	0	4
+133	53283	h2	Fear instigates avoidance behavior.	Fear	h1	Catastrophizing changed significantly in the sample as a whole, indicating improvement.	Catastrophizing	NM	NM	NM	NM	0	0	0	0	4	0
+134	246568	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	L	NM	NM	0	0	0	1	3	0
+135	140543	h1	The rate of symptom improvement may differ.	symptom	h2	The presence of pain radiating into at least one leg influenced physical performance.	pain	NM	NM	NM	S	0	0	1	0	3	0
+136	85566	h1	Participants were excluded if Participants had chronic pain due to malignancy.	malignancy	h2	Only those who reported low pain showed changes in temporal activation profiles.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+137	80312	h1	Participants were adults with chronic pain secondary to muscular dystrophy (MD).	chronic pain	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	NM	NM	NM	0	0	0	0	4	0
+138	198430	h2	However, this sensitivity is only present when attention resources are available, specifically in cases of lower pain.	pain	h2	Individuals in high pain have less responsiveness to changing task conditions.	responsiveness	NM	L	NM	NM	0	0	0	1	3	0
+139	219697	h1	Support has been found for disability beliefs as mediators of pain treatment.	pain	h1	Support has been found for disability beliefs as mediators of pain treatment.	disability	NM	L	NM	NM	0	0	0	1	3	0
+141	29730	h1	Pain may be caused or exacerbated by anxiety.	anxiety	h2	physical activities can promote a gradual progress towards recovery.	recovery	NM	NM	NM	NM	0	0	0	0	4	0
+142	234628	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain interference	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+143	91430	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in depressive symptoms was not significant.	pretreatment	h1	Activity engagement changed significantly in the sample as a whole, indicating improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+144	204357	h1	Interference is not affected by posttreatment changes in pain intensity.	pain	h2	Chronic pain degrades people's quality of life.	Chronic pain	NM	NM	S	S	0	0	2	0	2	0
+145	235238	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	There was no evidence for significant indirect effects (mediation) of the practice of listening to the audio recordings on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+146	126925	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	vibration	NM	NM	NM	NM	0	0	0	0	4	0
+149	162510	h1	The results of this study demonstrate that patients having osteoarthritic knee pain benefit from pain coping skills training.	knee pain	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+150	223429	h1	Relationship problems can make pain worse.	pain	h2	Chronic pain degrades people's quality of life.	Chronic pain	S	L	S	S	0	0	3	1	0	0
+152	105256	h1	Persistent pain leads to disability for some.	disability	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+153	110037	h1	Psychodynamic therapy successfully treats trauma and emotional conflicts.	emotional conflicts	h1	Distress can make pain worse.	Distress	L	S	L	S	0	0	2	2	0	0
+156	173414	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h2	Both groups, with and without spinal pain, were challenged by vibrating ankle muscles or paraspinal muscles.	spinal pain	NM	S	NM	L	0	0	1	1	2	0
+157	168952	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	h2	major outcomes are also manifested when motor neuron activity inhibits muscular contractions.	muscular contractions	NM	NM	NM	NM	0	0	0	0	4	0
+158	186368	h2	The highest correlations were found among pain-related fear measures.	pain	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	NM	NM	NM	L	0	0	0	1	3	0
+159	47249	h2	Back pain will affect work to some extent for certain individuals (Q6).	Back pain	h1	Pain caused difficulty in performing daily activities.	Pain	S	S	S	S	0	0	4	0	0	0
+161	126692	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	h2	Those in high pain in the present study were not influenced by directed attention.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+162	123011	h2	Finally, The studies should examine the fatigue of the legs directly related to the walking motion.	fatigue	h1	The rate of symptom improvement may differ.	symptom	S	S	NM	S	0	0	3	0	1	0
+163	240040	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	L	NM	NM	NM	0	0	0	1	3	0
+164	80308	h1	Participants were adults with chronic pain secondary to muscular dystrophy (MD).	chronic pain	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	O	O	NM	NM	0	0	0	0	2	2
+165	242388	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	L	NM	NM	NM	0	0	0	1	3	0
+166	140037	h1	The rate of symptom improvement may differ.	improvement	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	vibration	NM	NM	NM	NM	0	0	0	0	4	0
+167	237618	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	L	L	NM	NM	0	0	0	2	2	0
+169	123122	h2	Finally, The studies should examine the fatigue of the legs directly related to the walking motion.	fatigue	h2	There is no significant relation between pain-related fear.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+170	234670	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain interference	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	L	NM	NM	NM	0	0	0	1	3	0
+171	93966	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	S	NM	S	S	0	0	3	0	1	0
+172	5174	h1	Chronic pain is a growing problem.	Chronic pain	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+173	173248	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	NM	O	NM	NM	0	0	0	0	3	1
+174	12968	h2	We wanted to investigate whether pain-related fear is associated with poor behavioral performance in studies 1 and 3.	pain-related fear	h1	The improvements in pain intensity and pain-related distress were small.	pain-related distress	L	NM	L	S	0	0	1	2	1	0
+175	52208	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	depression	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	NM	L	NM	NM	0	0	0	1	3	0
+176	190101	h1	A substantial proportion of patients with spinal-cord injury (SCI) experience severe, ongoing pain.	pain	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	vibration	NM	NM	NM	NM	0	0	0	0	4	0
+178	321197	h1	52% of the hypnosis participants reported these reductions.	reduction	h1	Did the treatment give you any relief?	treatment	NM	NM	NM	NM	0	0	0	0	4	0
+179	83709	h1	Participants were adults with chronic pain secondary to spinal cord injury (SCI).	chronic pain	h1	The 9-item subscale measures the degree to which pain interferes with various aspects of life.	pain	S	NM	S	S	0	0	3	0	1	0
+180	45876	h1	Fibromyalgia can affect various parts of the body.	affect various parts of the body	h2	Patients with LBP stiffen the pelvis.	stiffen the pelvis	NM	L	NM	NM	0	0	0	1	3	0
+181	90322	h2	the reduction of disability would lead to the reduction of associated costs.	disability	h2	The activation depends on whether back muscles are focused on back muscles's pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+182	92852	h1	The significance of the pretreatment-to-4-week decrease in pain intensity (assessed with NRS) was F(1, 93) 8.89; p .006; 2 .115.	pretreatment	h2	These findings indicate that individual constraints reduce persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+183	30240	h1	Pain may be caused or exacerbated by muscle tension.	Pain	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	NM	NM	NM	NM	0	0	0	0	4	0
+184	243077	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pretreatment	h1	Another treatment may not produce the final degree of posttreatment change until the final session.	treatment	NM	NM	NM	NM	0	0	0	0	4	0
+185	129189	h2	The TSK was developed to measure fear of (re)injury.	fear	h1	The improvements in pain intensity and pain-related distress were small.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+186	255528	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	L	O	NM	NM	0	0	0	1	2	1
+187	77357	h1	Stress is a common cause of complaints.	Stress	h2	These findings indicate that individual constraints reduce persistence.	individual constraints	NM	NM	NM	S	0	0	1	0	3	0
+188	162522	h1	The results of this study demonstrate that patients having osteoarthritic knee pain benefit from pain coping skills training.	knee pain	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+189	173295	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	NM	NM	S	S	0	0	2	0	2	0
+190	66514	h2	The purpose was to determine how changes in pain focus influenced trunk muscle activation patterns.	muscle	h1	The primary focus of this study is on pain interference.	pain	NM	L	NM	NM	0	0	0	1	3	0
+193	9571	h1	Hyperactivity increases.	Hyperactivity	h2	Cortical plasticity is caused by sensorimotor or cognitive stimulation.	sensorimotor	NM	L	NM	NM	0	0	0	1	3	0
+194	22303	h1	Dropouts happen, and it is unknown how many are due to dissatisfaction or unrecorded worse pain.	dissatisfaction	h1	No variable, including change in catastrophizing, showed a significant indirect effect.	catastrophizing	NM	NM	NM	NM	0	0	0	0	4	0
+196	129249	h2	The TSK was developed to measure fear of (re)injury.	fear	h1	Patients who had received PCST/MT reported a greater increase in positive mood at posttreatment.	positive mood	O	NM	NM	O	0	0	0	0	2	2
+197	210867	h1	Participants were encouraged to understand how cognitive factors shape pain.	cognitive factors	h1	Psychosocial factors play an important role in associated physical disability.	Psychosocial factors	S	L	NM	NM	0	0	1	1	2	0
+198	293731	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	poor adherence	h1	Evidence shows that adherence is associated with positive outcomes.	adherence	O	O	S	O	0	0	1	0	0	3
+201	238822	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+202	76276	h1	Stress is known to cause complaints.	Stress	h1	an explicit goal was to correct participants' misunderstandings about pain's relationship to injury and tissue damage.	tissue damage	NM	NM	NM	NM	0	0	0	0	4	0
+203	93960	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h2	Independent variables are related with pain catastrophizing.	pain catastrophizing	NM	NM	NM	NM	0	0	0	0	4	0
+204	38016	h2	Undesirable responses are triggered by external or internal perturbations.	perturbations	h2	Greater disease progression correlates with further reductions in persistence.	persistence	NM	O	NM	NM	0	0	0	0	3	1
+207	70544	h2	Multitudinous complementary mechanisms also involve decreased rates of breakdown.	breakdown	h2	The TSK was developed to measure fear of (re)injury.	fear	NM	NM	NM	NM	0	0	0	0	4	0
+209	91088	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in depressive symptoms was not significant.	decrease in depressive symptoms	h1	Any treatment can make lasting positive changes.	positive changes	S	S	NM	S	0	0	3	0	1	0
+210	75057	h1	Results suggested that people who completed all 10 sessions of treatment experienced a significant decrease in pain catastrophizing.	pain	h1	The modification allowed for alternative motor responses.	motor	NM	NM	NM	NM	0	0	0	0	4	0
+211	96404	h1	Baseline pain interference did not have a direct effect on the change in depressive symptoms.	Baseline pain interference	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	NM	NM	NM	0	0	0	0	4	0
+214	75905	h1	Stress is known to cause complaints.	Stress	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+217	87323	h1	the Mini-Cog reportedly has high validity for detecting cognitive impairment in a community sample of ethnolinguistically diverse older adults.	cognitive impairment	h2	A reliable and valid index of depressive symptoms in chronic pain patients this finding the overall severity of depressive symptoms.	depressive symptoms	NM	NM	NM	L	0	0	0	1	3	0
+218	28182	h1	Osteoarthritis of the knees increases in incidence with age.	age	h1	Exercise may reduce disability in osteoarthritis patients.	disability	NM	NM	NM	NM	0	0	0	0	4	0
+219	96368	h1	Baseline pain interference did not have a direct effect on the change in depressive symptoms.	Baseline pain interference	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	S	NM	S	S	0	0	3	0	1	0
+220	22766	h1	Dropouts may be attributable to unrecorded adverse events.	Dropout	h2	Multitudinous complementary mechanisms also involve decreased rates of breakdown.	breakdown	NM	NM	NM	NM	0	0	0	0	4	0
+221	125476	h1	The affected items include sleep disturbance, decrease in libido, and increased fatigue.	fatigue	h1	The pain and interference should have been present for at least 6 months.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+222	29180	h1	Pain may be caused or exacerbated by anxiety.	Pain	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	spinal pain	S	S	S	S	0	0	4	0	0	0
+223	236432	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+224	284176	h1	However, the effect of age on physical disability was significant.	physical disability	h2	Physical activity is critically important for mobility and physical function.	physical function	L	NM	NM	O	0	0	0	1	2	1
+225	222118	h1	Distress can make pain worse.	pain	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	L	NM	NM	NM	0	0	0	1	3	0
+228	236434	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	L	NM	NM	NM	0	0	0	1	3	0
+229	22003	h1	Dropouts happen, and it is unknown how many are due to dissatisfaction or unrecorded worse pain.	Dropout	h2	The BBQ can assess false beliefs and related fear in French LBP populations.	false beliefs	NM	NM	NM	NM	0	0	0	0	4	0
+230	67590	h1	The rational of using ACT in the context of longstanding pain was based on established relationships between fear, anxiety, stress, muscle tension, negative thoughts, and pain.	fear	h1	Activity engagement changed significantly in the sample as a whole, indicating improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+232	104876	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	S	S	S	S	0	0	4	0	0	0
+233	189458	h1	The pain and interference should have been present for at least 6 months.	interference	h2	physical activities can promote a gradual progress towards recovery.	recovery	NM	NM	NM	NM	0	0	0	0	4	0
+234	67579	h1	The rational of using ACT in the context of longstanding pain was based on established relationships between fear, anxiety, stress, muscle tension, negative thoughts, and pain.	fear	h1	The observed improvements in sleep were revealed at follow-up.	sleep	NM	NM	NM	NM	0	0	0	0	4	0
+236	271650	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+237	241202	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+238	21202	h2	Cortical plasticity is caused by sensorimotor or cognitive stimulation.	sensorimotor	h1	Interference is not affected by posttreatment changes in pain intensity.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+239	127914	h2	Patients fear harm during physical activities.	fear	h1	The results of this study suggest that having patients participate in group sessions designed to educate patients about arthritis and arthritis's treatment does not provide the same benefits in terms of pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+240	263321	h2	The relation between distraction and pain reduction is not simplistic.	distraction	h2	Experienced pain increase was less predictive of physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+242	139823	h1	The rate of symptom improvement may differ.	improvement	h1	The primary focus of this study is on pain interference.	interference	L	NM	NM	NM	0	0	0	1	3	0
+244	89144	h1	the person had a hard time controlling the person's emotions because of poor sleep.	poor sleep	h2	Those in high pain in the present study were not influenced by directed attention.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+245	153073	h2	Sensory deficits from the location might result in instability.	instability	h1	Any treatment can make lasting positive changes.	treatment	NM	NM	NM	NM	0	0	0	0	4	0
+246	9353	h2	Fear of pain may be more related to short-lasting pain increases.	pain	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+247	10021	h1	Hyperactivity increases.	Hyperactivity	h2	Experienced pain increase was less predictive of physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+248	78405	h1	Amputation is known to produce significant central cortical changes.	Amputation	h1	The changes in pain interference scores were predicted.	interference	NM	NM	NM	NM	0	0	0	0	4	0
+250	93980	h1	Baseline pain intensity did not have a significant effect on the change in depressive symptoms during the trial.	Baseline pain intensity	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	NM	NM	NM	L	0	0	0	1	3	0
+251	17731	h1	Pain-related distress reduced by 0.37 units.	Pain-related distress	h1	The changes in pain catastrophizing and pain self-efficacy were related to subsequent changes in pain catastrophizing and pain self-efficacy, which is consistent with the notion that changes in putative mechanism factors are important.	pain catastrophizing	NM	L	NM	L	0	0	0	2	2	0
+252	101532	h1	Exercise may reduce disability in osteoarthritis patients.	disability	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	NM	NM	NM	NM	0	0	0	0	4	0
+253	81632	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	L	S	NM	NM	0	0	1	1	2	0
+254	185223	h1	This indicates that treatment groups had similar effects on pain interference changes.	pain	h1	High levels of pain anxiety compromise participation in rehabilitation.	pain anxiety	NM	NM	NM	NM	0	0	0	0	4	0
+256	182846	h2	A reliable and valid index of depressive symptoms in chronic pain patients this finding the overall severity of depressive symptoms.	pain	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+257	219724	h1	Support has been found for disability beliefs as mediators of pain treatment.	pain	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	NM	NM	NM	NM	0	0	0	0	4	0
+258	107651	h2	Physiologic complexity can vary with aging and disease.	disease	h1	The results of this study suggest that having patients participate in group sessions designed to educate patients about arthritis and arthritis's treatment does not provide the same benefits in terms of pain.	arthritis	S	NM	NM	S	0	0	2	0	2	0
+259	102249	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h2	However, this sensitivity is only present when attention resources are available, specifically in cases of lower pain.	attention	NM	NM	NM	NM	0	0	0	0	4	0
+260	113004	h2	Chronic pain may affect emotional functioning.	Chronic pain	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	S	S	S	S	0	0	4	0	0	0
+261	123149	h2	Finally, The studies should examine the fatigue of the legs directly related to the walking motion.	fatigue	h1	Distress can make pain worse.	Distress	NM	O	NM	NM	0	0	0	0	3	1
+262	102123	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h2	Finally, The studies should examine the fatigue of the legs directly related to the walking motion.	walking motion	S	S	NM	S	0	0	3	0	1	0
+263	109509	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+264	197238	h1	The effect size for pain interference was less than small.	pain	h2	Individuals in high pain have less responsiveness to changing task conditions.	responsiveness	NM	NM	NM	NM	0	0	0	0	4	0
+266	245994	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	L	NM	NM	NM	0	0	0	1	3	0
+267	66488	h2	The purpose was to determine how changes in pain focus influenced trunk muscle activation patterns.	muscle	h2	However, this sensitivity is only present when attention resources are available, specifically in cases of lower pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+268	204201	h1	Interference is not affected by posttreatment changes in pain intensity.	pain	h1	Support has been found for disability beliefs as mediators of pain treatment.	disability	NM	NM	NM	NM	0	0	0	0	4	0
+270	184647	h2	The hypothesized sensory deficiency might be due to movement causing pain.	movement	h2	The presence of pain radiating into at least one leg influenced physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+271	104649	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	h2	There is no significant relation between the expectation of pain.	expectation	NM	NM	NM	NM	0	0	0	0	4	0
+272	25288	h2	Fluctuations in repeated human movements arise from external disturbances.	Fluctuations	h2	Sensory deficits from the location might result in instability.	instability	NM	NM	NM	NM	0	0	0	0	4	0
+273	81436	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h1	Yoga (Craner, Osadchuk, & Katz, 2011; Lazaridou et al., 2019) is a practice that can bring about significant changes in pain catastrophizing.	pain catastrophizing	NM	NM	NM	NM	0	0	0	0	4	0
+274	253741	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pretreatment	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+275	104291	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	disability	h1	Age did not significantly change prior to treatment.	Age	NM	NM	NM	NM	0	0	0	0	4	0
+276	243578	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	L	NM	NM	NM	0	0	0	1	3	0
+277	216193	h1	These processes should be investigated in terms of how These processes affect future pain.	pain	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+278	238814	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	h1	There was no evidence for significant indirect effects (mediation) of the practice of listening to the audio recordings on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+279	240000	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	S	L	S	L	0	0	2	2	0	0
+280	105716	h1	Persistent pain leads to disability for some.	Persistent pain	h1	Those in the SC condition reported a greater decrease in high pain days at follow-up.	high pain	L	L	NM	NM	0	0	0	2	2	0
+281	268058	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain-related behaviors	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain-related distress	L	S	NM	S	0	0	2	1	1	0
+282	249576	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	NM	NM	NM	0	0	0	0	4	0
+284	78420	h1	Amputation is known to produce significant central cortical changes.	Amputation	h2	The patients in a group of patients avoid physical activities and fear pain/(re)injury.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+285	224489	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	pain	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+286	123043	h2	Finally, The studies should examine the fatigue of the legs directly related to the walking motion.	fatigue	h1	Persons who rated pain interference with activities	pain	NM	NM	NM	NM	0	0	0	0	4	0
+287	127912	h2	Patients fear harm during physical activities.	fear	h1	Support has been found for disability beliefs as mediators of pain treatment.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+289	81346	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	L	S	L	S	0	0	2	2	0	0
+290	140380	h1	The rate of symptom improvement may differ.	symptom	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	NM	L	NM	NM	0	0	0	1	3	0
+291	49714	h1	Persistent pain leads to anxiety for some.	Persistent pain	h1	Inactivity contributes to increased pain for some people.	increased pain	L	L	NM	NM	0	0	0	2	2	0
+292	191126	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	L	NM	NM	NM	0	0	0	1	3	0
+293	3897	h2	Chronic back pain patients are systematically exposed to a series of physical activities.	Chronic back pain	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	spinal-cord injury	L	L	NM	L	0	0	0	3	1	0
+294	86392	h1	Results suggest that cognitive changes do not occur solely in a treatment.	cognitive changes	h1	The failure to adaptively resolve conflicts appears to drive somatic symptoms.	somatic symptoms	NM	L	NM	NM	0	0	0	1	3	0
+296	126900	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	h1	Did the treatment give you any relief?	relief	NM	O	NM	O	0	0	0	0	2	2
+297	67019	h1	The rational of using ACT in the context of longstanding pain was based on established relationships between fear, anxiety, stress, muscle tension, negative thoughts, and pain.	anxiety	h1	Persons who rated pain interference with activities	pain	NM	NM	NM	NM	0	0	0	0	4	0
+299	84795	h1	Participants were excluded if Participants had chronic pain due to malignancy.	chronic pain	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	NM	NM	NM	NM	0	0	0	0	4	0
+300	21928	h1	Dropouts happen, and it is unknown how many are due to dissatisfaction or unrecorded worse pain.	Dropout	h2	These findings indicate that individual constraints reduce persistence.	persistence	NM	O	NM	NM	0	0	0	0	3	1
+301	124541	h1	Poor physical fitness is also characterized by an increasing tendency to fatigue on usual activities.	fatigue	h2	Persons with spinal pain were more sensitive to triceps surae vibration.	vibration	NM	NM	NM	NM	0	0	0	0	4	0
+303	9647	h1	Hyperactivity increases.	Hyperactivity	h2	The purpose was to determine how changes in pain focus influenced trunk muscle activation patterns.	muscle	NM	L	NM	NM	0	0	0	1	3	0
+304	253269	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	h1	Persistent pain leads to social isolation for some.	Persistent pain	NM	NM	NM	NM	0	0	0	0	4	0
+305	102159	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h1	Activity engagement changed significantly in the sample as a whole, indicating improvement.	Activity engagement	L	S	NM	L	0	0	1	2	1	0
+306	243588	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	L	NM	NM	S	0	0	1	1	2	0
+307	192442	h1	Fighting against the pain and unwillingness to experience the pain needed to be limited.	pain	h1	a study focused on the prevention of relapse/recurrence in major depression.	recurrence	NM	NM	NM	NM	0	0	0	0	4	0
+308	224518	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	pain	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+311	285368	h1	Psychosocial factors play an important role in associated physical disability.	physical disability	h2	Physical activity is critically important for mobility and physical function.	physical function	O	O	NM	O	0	0	0	0	1	3
+312	37859	h2	Undesirable responses are triggered by external or internal perturbations.	perturbations	h1	This indicates that treatment groups had similar effects on pain interference changes.	interference	NM	S	NM	NM	0	0	1	0	3	0
+314	141580	h1	Harm beliefs changed significantly in the sample as a whole, indicating improvement.	Harm beliefs	h1	The changes in pain interference scores were predicted.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+315	202013	h2	Only those who reported low pain showed changes in temporal activation profiles.	pain	h1	Persistent pain leads to social isolation for some.	Persistent pain	NM	NM	S	S	0	0	2	0	2	0
+316	78598	h1	Amputation is known to produce significant central cortical changes.	Amputation	h2	The immune systems of vertebrates provide protection.	protection	NM	NM	NM	NM	0	0	0	0	4	0
+317	250886	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	h1	The failure to adaptively process conflicts appears to drive somatic symptoms.	somatic symptoms	NM	NM	NM	NM	0	0	0	0	4	0
+318	75948	h1	Stress is known to cause complaints.	Stress	h2	Sensory deficits from the location might result in instability.	instability	NM	NM	NM	NM	0	0	0	0	4	0
+319	74116	h1	Results suggested that people who completed all 10 sessions of treatment experienced a significant decrease in pain catastrophizing.	catastrophizing	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	NM	L	NM	NM	0	0	0	1	3	0
+320	196001	h1	The changes in pain interference scores were predicted.	pain	h1	Patients who had received PCST/MT reported a greater increase in positive mood at posttreatment.	positive mood	NM	NM	NM	NM	0	0	0	0	4	0
+321	243594	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+322	10368	h1	Hyperactivity increases.	increases	h1	Harm beliefs changed significantly in the sample as a whole, indicating improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+323	188195	h2	The studies provide support for the validity of the pain-related fear measures used.	fear	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+324	255518	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	h1	The expected pain level after intervention is 1.27.	pain level	NM	NM	NM	NM	0	0	0	0	4	0
+325	243580	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	NM	O	NM	NM	0	0	0	0	3	1
+326	207876	h2	There is no significant relation between the expectation of pain.	pain	h2	Greater disease progression correlates with further reductions in persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+327	242396	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+328	84904	h1	Participants were excluded if Participants had chronic pain due to malignancy.	chronic pain	h1	The results of this study demonstrate that patients having osteoarthritic knee pain benefit from pain coping skills training.	knee pain	S	S	NM	NM	0	0	2	0	2	0
+329	237622	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	There was no evidence for significant indirect effects (mediation) of the practice of listening to the audio recordings on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+330	244773	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	L	NM	NM	NM	0	0	0	1	3	0
+332	237656	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	NM	NM	NM	0	0	0	0	4	0
+333	39611	h2	Walking is regulated by neural systems.	Walking	h2	Slow walking affects locomotor muscle activation timing.	Slow walking	S	S	S	L	0	0	3	1	0	0
+334	246574	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+335	101648	h1	Exercise may reduce disability in osteoarthritis patients.	disability	h1	The changes in pain interference scores were predicted.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+336	253770	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pretreatment	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+337	292578	h2	There is ample evidence supporting multiple motor sources of physiological noise.	physiological noise	h1	52% of the hypnosis participants reported these reductions.	reduction	NM	NM	NM	NM	0	0	0	0	4	0
+339	211406	h1	The majority of pain treatments available to persons with spinal-cord injury (SCI) have been shown to benefit only a subset of patients.	pain	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+340	236426	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	Decrease in depressive symptoms was associated with a decrease in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+341	279486	h2	Greater disease progression correlates with further reductions in persistence.	persistence	h2	Individuals in high pain have less responsiveness to changing task conditions.	responsiveness	NM	L	NM	NM	0	0	0	1	3	0
+342	209002	h1	Participants were encouraged to understand how affective factors shape pain.	pain	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	NM	NM	NM	L	0	0	0	1	3	0
+343	109512	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	NM	O	NM	NM	0	0	0	0	3	1
+345	251954	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	NM	NM	NM	NM	0	0	0	0	4	0
+346	72952	h1	It limited our ability to test whether the hypothesized associations would have emerged in individuals with higher pretreatment catastrophizing scores.	catastrophizing	h1	cognitive behavioral therapy causes improvement.	improvement	NM	O	NM	NM	0	0	0	0	3	1
+347	52034	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	depression	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	distress	NM	NM	NM	NM	0	0	0	0	4	0
+348	97331	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+349	193652	h1	The purpose was to predict 4-week- to-posttreatment changes in pain interference change scores.	pain	h1	Did the treatment give you any relief?	relief	NM	O	NM	O	0	0	0	0	2	2
+350	127874	h2	Patients fear harm during physical activities.	fear	h1	The effect size for pain interference was less than small.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+351	250764	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	NM	NM	NM	NM	0	0	0	0	4	0
+352	248512	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	h2	Persons with spinal pain were less sensitive to paraspinal vibration.	spinal pain	NM	L	NM	NM	0	0	0	1	3	0
+354	22518	h1	Dropouts happen, and it is unknown how many are due to dissatisfaction or unrecorded worse pain.	dissatisfaction	h2	More recent evidence suggests age may not affect persistence.	persistence	NM	O	NM	NM	0	0	0	0	3	1
+355	241200	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	L	NM	NM	NM	0	0	0	1	3	0
+356	235246	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	the secondary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+357	5058	h1	Chronic pain is a growing problem.	Chronic pain	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	S	S	L	S	0	0	3	1	0	0
+358	213877	h1	The primary focus of this study is on pain interference.	pain	h1	Patients who had received PCST reported a greater decrease in high pain days at posttreatment.	high pain day	NM	NM	NM	NM	0	0	0	0	4	0
+359	105846	h1	Persistent pain leads to disability for some.	Persistent pain	h1	The majority of pain treatments available to persons with spinal-cord injury (SCI) have been shown to benefit only a subset of patients.	pain	NM	S	NM	NM	0	0	1	0	3	0
+360	196045	h1	The changes in pain interference scores were predicted.	pain	h1	The modification allowed for alternative motor responses.	motor	NM	NM	NM	NM	0	0	0	0	4	0
+361	97596	h2	Those reporting high pain-intensity have difficulty in engaging in distraction tasks.	pain-intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	NM	L	NM	NM	0	0	0	1	3	0
+362	235389	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	Persistent pain leads to social isolation for some.	Persistent pain	NM	NM	NM	NM	0	0	0	0	4	0
+364	141572	h1	Harm beliefs changed significantly in the sample as a whole, indicating improvement.	Harm beliefs	h1	Longitudinal research these findings that once a person with spinal-cord injury (SCI) develops pain, a person with spinal-cord injury (SCI) rarely resolves pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+365	237616	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	S	S	S	L	0	0	3	1	0	0
+366	25381	h2	Fluctuations in repeated human movements arise from external disturbances.	Fluctuations	h2	There is no significant relation between the expectation of pain.	expectation	NM	NM	NM	NM	0	0	0	0	4	0
+367	135089	h1	The decrease in high pain days reported by patients who had received PCST was significantly lesser than that reported by those in the SC condition (t 3.66; P .0003).	high pain day	h1	Only baseline pain interference had a significant effect on the change in pain catastrophizing.	pain interference	NM	L	NM	L	0	0	0	2	2	0
+368	311646	h2	The immune systems of vertebrates provide protection.	protection	h1	At least 30% of the hypnosis participants reported these reductions.	reduction	NM	NM	NM	NM	0	0	0	0	4	0
+369	240018	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+370	188921	h1	The pain and interference should have been present for at least 6 months.	pain	h1	an explicit goal was to correct participants' misunderstandings about pain's relationship to injury and tissue damage.	injury	NM	NM	NM	NM	0	0	0	0	4	0
+371	49357	h1	Persistent pain leads to anxiety for some.	anxiety	h2	Experienced pain increase was less predictive of physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+372	104730	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	h1	The expected pain level after intervention is 1.27.	pain level	NM	NM	NM	L	0	0	0	1	3	0
+374	26707	h1	Mood disturbance is also a symptom of Fibromyalgia (FM.	Mood disturbance	h2	The presence of pain radiating into at least one leg influenced physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+375	212707	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	h1	a study focused on the prevention of relapse/recurrence in major depression.	relapse	NM	NM	NM	NM	0	0	0	0	4	0
+376	246015	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	h1	High levels of pain anxiety compromise participation in rehabilitation.	pain anxiety	NM	NM	NM	NM	0	0	0	0	4	0
+377	26166	h2	Fluctuations in repeated human movements arise from external disturbances.	disturbances	h1	52% of the hypnosis participants reported these reductions.	reduction	NM	NM	NM	NM	0	0	0	0	4	0
+378	165585	h2	Pain influences motor response in individuals with LBP.	Pain	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	NM	NM	NM	0	0	0	0	4	0
+379	112934	h2	Chronic pain may affect emotional functioning.	Chronic pain	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	S	S	L	S	0	0	3	1	0	0
+381	236440	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+382	168994	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	h2	The activation depends on whether back muscles are focused on back muscles's pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+384	294335	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	h1	Pretreatment to posttreatment within treatment effect sizes ranged from Cohens d 5 0.15 to 0.37.	Pretreatment	NM	NM	NM	NM	0	0	0	0	4	0
+386	102687	h2	Activities avoidance leads to disability.	disability	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+387	248376	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	h2	The relation between distraction and pain reduction is not simplistic.	pain reduction	L	NM	NM	NM	0	0	0	1	3	0
+388	110685	h1	Psychodynamic therapy successfully treats trauma and emotional conflicts.	trauma	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pretreatment	NM	NM	NM	NM	0	0	0	0	4	0
+390	141490	h1	Harm beliefs changed significantly in the sample as a whole, indicating improvement.	Harm beliefs	h1	Catastrophizing changed significantly in the sample as a whole, indicating improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+391	59782	h1	Depression is left untreated.	Depression	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	distress	NM	NM	NM	NM	0	0	0	0	4	0
+393	51383	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	attrition	h1	Stress is known to cause complaints.	Stress	NM	NM	NM	NM	0	0	0	0	4	0
+394	128407	h2	Patients fear harm during physical activities.	harm	h1	Persons who rated pain interference with activities	pain	NM	NM	NM	NM	0	0	0	0	4	0
+395	237634	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+397	271145	h1	two groups: one receiving MBSR and the other receiving a multidisciplinary intervention showed improvements in perceptions of pain intensity and pain-related distress.	pain-related distress	h2	Individuals with pain-related fear continue to restrict lumbar motion.	pain-related fear	L	L	L	S	0	0	1	3	0	0
+398	85580	h1	Participants were excluded if Participants had chronic pain due to malignancy.	malignancy	h1	Participants were encouraged to understand how cognitive factors shape pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+399	17845	h1	Pain-related distress reduced by 0.37 units.	Pain-related distress	h2	Individuals with pain-related fear continue to restrict lumbar motion.	pain-related fear	L	L	L	S	0	0	1	3	0	0
+400	52335	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	depression	h2	The presence of pain radiating into at least one leg influenced physical performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+900	235240	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+901	241204	h1	Within a given treatment epoch, reductions in precontemplation attitudes were associated with improvements in pain intensity.	pain intensity	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+902	80154	h1	Participants were adults with chronic pain secondary to muscular dystrophy (MD).	chronic pain	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	S	S	L	S	0	0	3	1	0	0
+903	104519	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	pain	h2	Chronic pain may contribute to elevated healthcare costs.	Chronic pain	S	S	S	NM	0	0	3	0	1	0
+904	59934	h1	Depression is left untreated.	Depression	h2	Focusing on pain may act as a catalyst.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+906	254338	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	L	NM	NM	NM	0	0	0	1	3	0
+907	25522	h2	Fluctuations in repeated human movements arise from external disturbances.	Fluctuations	h2	There is ample evidence supporting multiple motor sources of physiological noise.	physiological noise	NM	NM	NM	NM	0	0	0	0	4	0
+908	77240	h1	Stress is a common cause of complaints.	Stress	h1	Pre-treatment decrease in depressive symptoms was associated with the decrease in pain intensity.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+909	85410	h1	Participants were excluded if Participants had chronic pain due to malignancy.	malignancy	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	distress	NM	NM	NM	NM	0	0	0	0	4	0
+911	108688	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	distress	h2	The TSK was developed to measure fear of (re)injury.	fear	NM	NM	NM	S	0	0	1	0	3	0
+912	17733	h1	Pain-related distress reduced by 0.37 units.	Pain-related distress	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain-related behaviors	L	S	NM	S	0	0	2	1	1	0
+913	21301	h2	Cortical plasticity is caused by sensorimotor or cognitive stimulation.	sensorimotor	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+914	256722	h1	The expected pain level after intervention is 1.27.	pain level	h1	Our finding is that the BIO treatment condition may have resulted in greater pain reduction than the BIO treatment condition.	pain reduction	L	S	L	NM	0	0	1	2	1	0
+916	240	h1	At 3-month follow-up, 5 individuals in the ACT condition met RCSC criteria.	ACT condition	h1	cognitive behavioral therapy causes improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+917	127904	h2	Patients fear harm during physical activities.	fear	h1	It might be argued that the changes in cognitive errors were not due to decreased pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+918	25864	h2	Fluctuations in repeated human movements arise from external disturbances.	disturbances	h1	Harm beliefs changed significantly in the sample as a whole, indicating improvement.	improvement	NM	NM	NM	NM	0	0	0	0	4	0
+919	245965	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	L	NM	NM	NM	0	0	0	1	3	0
+921	196574	h1	The changes in pain interference scores were predicted.	interference	h2	There is ample evidence supporting multiple motor sources of physiological noise.	physiological noise	S	NM	L	NM	0	0	1	1	2	0
+922	242400	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	L	L	NM	NM	0	0	0	2	2	0
+923	276516	h1	High levels of pain anxiety compromise participation in rehabilitation.	pain anxiety	h1	The failure to adaptively resolve conflicts appears to drive somatic symptoms.	somatic symptoms	NM	NM	NM	L	0	0	0	1	3	0
+924	98833	h1	Pain caused difficulty in performing daily activities.	Pain	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	L	NM	NM	0	0	0	1	3	0
+925	238816	h1	The number of days participants listened to the audio recordings provided with treatment did not show an indirect effect on change in pain intensity.	pain intensity	h1	Change in mindful observing, however, was not significantly correlated with improved pain interference.	pain interference	L	NM	NM	NM	0	0	0	1	3	0
+926	268652	h1	Reports regarding tai chi tended to alter pain-related cognition.	pain-related cognition	h1	The improvements in pain intensity and pain-related distress were small.	pain-related distress	NM	NM	NM	L	0	0	0	1	3	0
+927	148926	h2	Degeneracy in the model increases.	Degeneracy	h2	The immune systems of vertebrates provide protection.	protection	NM	NM	NM	NM	0	0	0	0	4	0
+928	224514	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	pain	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	L	NM	NM	L	0	0	0	2	2	0
+931	240010	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	h1	Change in cognitive process was not associated with change in pain interference across any treatment condition.	pain interference	L	L	NM	NM	0	0	0	2	2	0
+932	42227	h2	Evidence suggests that changes in cognitive demands can alter trunk muscle activation.	activation	h1	Pretreatment to posttreatment within treatment effect sizes ranged from Cohens d 5 0.15 to 0.37.	Pretreatment	NM	NM	NM	NM	0	0	0	0	4	0
+933	148747	h2	Degeneracy in the model increases.	Degeneracy	h1	Interference is not affected by posttreatment changes in pain intensity.	Interference	NM	NM	NM	NM	0	0	0	0	4	0
+934	125536	h1	The affected items include sleep disturbance, decrease in libido, and increased fatigue.	fatigue	h1	Patients with spinal cord injury (SCI) reported 27% clinically meaningful decreases in daily pain.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+936	147181	h1	Inactivity contributes to increased pain for some people.	increased pain	h1	Persistent pain leads to social isolation for some.	Persistent pain	L	L	NM	NM	0	0	0	2	2	0
+937	9342	h2	Fear of pain may be more related to short-lasting pain increases.	pain	h1	The number of days of practice did not evidence a significant indirect effect on change in pain intensity.	pain intensity	S	NM	NM	NM	0	0	1	0	3	0
+939	82672	h1	Thirty-seven adults had spinal-cord injury and chronic pain.	chronic pain	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+940	242424	h1	The converse pretreatment-to-4-week changes in pain intensity related to Week 8 WAI scores was not significant.	pain intensity	h1	The discussion in phase 1 focused on the dysfunctional character of longstanding pain symptoms and pain-related behaviors.	pain symptoms	L	NM	NM	NM	0	0	0	1	3	0
+942	137941	h1	The observed improvements in sleep were revealed at follow-up.	sleep	h1	Practice of a self-management approach may, in part, underlie subsequent reductions in pain intensity and interference in functioning.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+945	220948	h1	The results of this study suggest that having patients participate in group sessions designed to educate patients about arthritis and arthritis's treatment does not provide the same benefits in terms of pain.	pain	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	L	L	NM	NM	0	0	0	2	2	0
+946	222207	h1	Distress can make pain worse.	pain	h2	Chronic pain may contribute to poor quality of life (QoL).	Chronic pain	S	S	S	S	0	0	4	0	0	0
+947	124409	h1	Poor physical fitness is also characterized by an increasing tendency to fatigue on usual activities.	fatigue	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	NM	NM	NM	0	0	0	0	4	0
+948	25916	h2	Fluctuations in repeated human movements arise from external disturbances.	disturbances	h1	a substantial loss of information has a negative impact on power.	negative impact on power	NM	NM	NM	NM	0	0	0	0	4	0
+949	237652	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	L	NM	NM	NM	0	0	0	1	3	0
+950	76087	h1	Stress is known to cause complaints.	Stress	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	neuromuscular activation	NM	NM	NM	NM	0	0	0	0	4	0
+951	124210	h1	Poor physical fitness is also characterized by an increasing tendency to fatigue on usual activities.	fatigue	h1	Activity engagement changed significantly in the sample as a whole, indicating improvement.	improvement	O	NM	NM	NM	0	0	0	0	3	1
+952	85544	h1	Participants were excluded if Participants had chronic pain due to malignancy.	malignancy	h1	The pain and interference should have been present for at least 6 months.	pain	NM	NM	NM	L	0	0	0	1	3	0
+953	195409	h2	The activation depends on whether back muscles are focused on back muscles's pain.	back muscles	h2	Applied to the leg muscles during quiet standing, vibration can induce postural instability.	leg muscles	L	L	NM	NM	0	0	0	2	2	0
+956	126576	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	fear	h1	Those in the SC condition reported a greater decrease in high pain days at follow-up.	high pain	NM	NM	NM	NM	0	0	0	0	4	0
+957	102129	h1	Exercise may reduce disability in osteoarthritis patients.	Exercise	h2	the unique contribution of pain-related fear predicts poor behavioral performance.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+958	52174	h1	Perhaps this was because patients who were experiencing lower levels of depression had higher rates of attrition.	depression	h1	Fighting against the pain and unwillingness to experience the pain needed to be limited.	pain	NM	NM	NM	NM	0	0	0	0	4	0
+960	269953	h1	The improvements in pain intensity and pain-related distress were small.	pain-related distress	h2	Individuals with pain-related fear continue to restrict lumbar motion.	pain-related fear	L	NM	L	L	0	0	0	3	1	0
+961	89013	h1	the person had a hard time controlling the person's emotions because of poor sleep.	poor sleep	h1	Poor physical fitness is also characterized by an increasing tendency to fatigue on usual activities.	Poor physical fitness	NM	L	NM	NM	0	0	0	1	3	0
+964	213881	h1	The primary focus of this study is on pain interference.	pain	h1	Patients who had received PCST/MT reported a greater increase in positive mood at posttreatment.	positive mood	NM	NM	NM	NM	0	0	0	0	4	0
+965	67721	h1	The rational of using ACT in the context of longstanding pain was based on established relationships between fear, anxiety, stress, muscle tension, negative thoughts, and pain.	fear	h1	Distress can make pain worse.	Distress	L	S	L	L	0	0	1	3	0	0
+966	78291	h1	Amputation is known to produce significant central cortical changes.	Amputation	h2	Patients fear harm during physical activities.	harm	NM	L	NM	NM	0	0	0	1	3	0
+967	109377	h1	People who receive no treatment for People who receive no treatment for their pain's pain probably experience more pain and distress compared to people treated with CBT.	pain	h2	The hypothesized sensory deficiency might be due to movement causing pain.	movement	NM	NM	NM	NM	0	0	0	0	4	0
+968	214434	h1	The primary focus of this study is on pain interference.	interference	h1	Muscle tension may play a role in muscle tension's persistence.	persistence	NM	NM	NM	NM	0	0	0	0	4	0
+969	22931	h1	Dropouts may be attributable to unrecorded adverse events.	Dropout	h1	Visual feedback of bodily reactions was used to demonstrate the effect of stress on muscle tension in session 2.	stress	NM	NM	NM	NM	0	0	0	0	4	0
+971	217437	h1	information tailored to the participants' particular medical condition was based on what is known about pain in LBP.	pain	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	NM	NM	NM	0	0	0	0	4	0
+972	228070	h1	Group cohesion had statistically significant associations with pain catastrophizing.	pain catastrophizing	h1	Twenty-two studies assessed the effects at post-treatment on pain intensity.	pain intensity	L	NM	NM	NM	0	0	0	1	3	0
+973	237147	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	Hypnotizability	h1	At least 30% of the hypnosis participants reported these reductions.	hypnosis	L	L	L	NM	0	0	0	3	1	0
+975	10027	h1	Hyperactivity increases.	Hyperactivity	h2	There is ample evidence supporting multiple motor sources of physiological noise.	motor	NM	NM	NM	NM	0	0	0	0	4	0
+976	197623	h1	The effect size for pain interference was less than small.	interference	h2	There is no significant relation between pain-related fear.	fear	NM	L	NM	NM	0	0	0	1	3	0
+977	104232	h2	We hypothesized that patients reporting a sudden pain onset will report more disability.	disability	h2	VR rehabilitation potentiates patients' learning and recovery.	recovery	NM	NM	NM	NM	0	0	0	0	4	0
+978	81480	h1	Participants were adults with chronic pain secondary to multiple sclerosis (MS).	chronic pain	h1	Simple comparisons revealed that the pretreatment-to-4-week decrease in pain interference was significant.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+979	185849	h1	This indicates that treatment groups had similar effects on pain interference changes.	interference	h1	The sheer number of skills that patients are expected to acquire may contribute to patient dropout and poor adherence.	dropout	NM	NM	NM	NM	0	0	0	0	4	0
+980	59115	h2	The finding was that the expected pain increase was a significant predictor of poor behavioral performance.	pain	h2	The purpose was to determine how changes in pain focus influenced trunk muscle activation patterns.	muscle	NM	NM	NM	NM	0	0	0	0	4	0
+981	259108	h2	A body image disruption can be associated with an incorrect pain rating.	pain rating	h1	Participants in the self-hypnosis condition were asked to report the number of hours pain relief usually lasted after Participants in the self-hypnosis condition listened to an audio recording of one of Participants in the self-hypnosis condition's sessions.	pain relief	NM	NM	NM	NM	0	0	0	0	4	0
+982	166810	h2	Pain influences muscle activation.	Pain	h2	physical activities can promote a gradual progress towards recovery.	recovery	NM	NM	NM	NM	0	0	0	0	4	0
+983	113002	h2	Chronic pain may affect emotional functioning.	Chronic pain	h1	The primary focus of this study is on pain interference.	pain	S	NM	NM	S	0	0	2	0	2	0
+984	28739	h1	Pain may be caused or exacerbated by anxiety.	Pain	h1	Amputation is known to produce significant central cortical changes.	Amputation	NM	NM	NM	NM	0	0	0	0	4	0
+985	128031	h2	Patients fear harm during physical activities.	fear	h1	detailed thought records additionally recounted physical reactions.	thought	NM	NM	NM	NM	0	0	0	0	4	0
+986	173365	h1	chronic neuropathic pain occurs after spinal cord injury.	neuropathic pain	h2	Chronic pain degrades people's quality of life.	Chronic pain	S	NM	L	S	0	0	2	1	1	0
+987	111044	h1	Negative experiences include muscle tension or discomfort, negative thoughts, and emotional distress.	emotional distress	h2	Chronic pain may affect emotional functioning.	emotional functioning	S	NM	S	L	0	0	2	1	1	0
+989	236442	h1	Hypnotizability showed a weak and nonsignificant association with pre- to posttreatment change in average daily pain intensity in the efficacy sample as a whole (r = .18, p = ns).	pain intensity	h1	Change in depressive symptoms had a direct effect on change in pain interference.	pain interference	NM	NM	NM	NM	0	0	0	0	4	0
+991	203052	h2	Those in high pain in the present study were not influenced by directed attention.	pain	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain interference	L	NM	NM	L	0	0	0	2	2	0
+992	194704	h2	The activation depends on whether back muscles are focused on back muscles's pain.	pain	h1	Therapeutic alliance was significantly associated with pain intensity improvement.	pain intensity improvement	S	NM	NM	NM	0	0	1	0	3	0
+993	51101	h2	a study found that when somatic information threatens, catastrophic thinking enhances attentional interference.	somatic information	h2	The relation between distraction and pain reduction is not simplistic.	distraction	NM	L	NM	NM	0	0	0	1	3	0
+994	246576	h1	The comparison in Figure 3 is about the maintenance of treatment effects on pain intensity, pain interference, and sleep quality over 6 months.	pain intensity	h1	The hypnosis protocol used in this study did not have substantial effects on pain interference.	pain interference	L	S	NM	NM	0	0	1	1	2	0
+996	235244	h2	It is unclear whether directed attention mediates the relationship between pain intensity and neuromuscular activation.	pain intensity	h1	the primary hypothesis compared the effects of hypnosis and biofeedback on pain interference.	pain interference	L	L	NM	NM	0	0	0	2	2	0
